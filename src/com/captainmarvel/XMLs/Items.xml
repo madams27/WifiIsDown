@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<items>
+		<item itemCode = "PIC">
+			<itemName>Picture</itemName>
+			<itemInspectDescription>On the wall there is a picture of your family. As where most pictures are.</itemInspectDescription>
+			<itemDescription>A picture of your family you pulled from your wall. Man you look really stupid.</itemDescription>
+		</item>
+		<item itemCode = "CNB">
+			<itemName>Candy Bar</itemName>
+			<itemInspectDescription>Pause! Is that a chocolate bar you see? Bruh go grab that!</itemInspectDescription>
+			<itemDescription>A delicious candy bar. Blessed to you from the sugar gods!</itemDescription>
+		</item>
+		<item itemCode = "MSO">
+			<itemName>Melon Soda</itemName>
+			<itemInspectDescription>In the fridge is a can of melon soda that you snuck back from Japan.</itemInspectDescription>
+			<itemDescription>Another gift from the sugar gods! Best to drink when cold.</itemDescription>
+		</item>
+		<item itemCode = "EFC">
+			<itemName>Empty Fast Food Cup</itemName>
+			<itemInspectDescription>An empty cup on the floor of the room. This is kind of gross my guy.</itemInspectDescription>
+			<itemDescription>An empty cup you found on the floor.Stained with the artificial coloring of soda.</itemDescription>
+		</item>
+		<item itemCode = "TNB">
+			<itemName>Tennis Ball</itemName>
+			<itemInspectDescription>You notice a tennis ball in the trashcan. Strange place for a tennis ball...</itemInspectDescription>
+			<itemDescription>A dirty ball missing some patches. Why are you carrying this?</itemDescription>
+		</item>
+		<item itemCode = "LFS">
+			<itemName>Left Shoe</itemName>
+			<itemInspectDescription>In the middle of the room is your left shoe... Wait where's the other shoe?</itemInspectDescription>
+			<itemDescription>You're left shoe. A dirty pair of Nike Blazers. Better then owning a pair of Air Monarchs.</itemDescription>
+		</item>
+		<item itemCode = "RTS">
+			<itemName>Right Shoe</itemName>
+			<itemInspectDescription>You pulled a nasty shoe out the dog's mouth. It smells like anger and Fritos.</itemInspectDescription>
+			<itemDescription>You're right shoe. A dirty pair of Nike Blazers. Soaked in dog drool.</itemDescription>
+		</item>
+	</items>
+</xml>
