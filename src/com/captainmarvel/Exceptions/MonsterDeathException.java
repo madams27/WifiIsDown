@@ -1,5 +1,11 @@
 package com.captainmarvel.Exceptions;
 
-public class MonsterDeathException
+public class MonsterDeathException extends RuntimeException
 {
+
+    public MonsterDeathException(String monsterName)
+    {
+        super(monsterName + " has been deafeated!");
+    }
+
 }

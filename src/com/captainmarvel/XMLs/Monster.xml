@@ -7,8 +7,9 @@
 			<monsterAttack>20</monsterAttack>
 			<monsterDescription>You encountered a large grizzly bear wearing a bright green shirt!</monsterDescription>
 			<monsterAttackPhrase>"ONLY YOU CAN PREVENT FAILING GRADES!"</monsterAttackPhrase>
-			<monsterMaxEncounterValue></monsterMaxEncounterValue>
-			<monsterMinEncounterValue></monsterMinEncounterValue>
+			<monsterMaxEncounterValue>43</monsterMaxEncounterValue>
+			<monsterMinEncounterValue>44</monsterMinEncounterValue>
+			<monsterHeldItem>null</monsterHeldItem>
 		</monster>
 		<monster monsterCode = "M01">
 			<monsterName>Wifi Router</monsterName>
@@ -16,8 +17,9 @@
 			<monsterAttack>5</monsterAttack>
 			<monsterDescription>You encountered an enraged Wifi Router! Normally you see them unconscious, but this one is alive!</monsterDescription>
 			<monsterAttackPhrase>"TAKE THIS PACKET!"</monsterAttackPhrase>
-			<monsterMaxEncounterValue></monsterMaxEncounterValue>
-			<monsterMinEncounterValue></monsterMinEncounterValue>
+			<monsterMaxEncounterValue>1</monsterMaxEncounterValue>
+			<monsterMinEncounterValue>10</monsterMinEncounterValue>
+			<monsterHeldItem>KI06</monsterHeldItem>
 		</monster>
 		<monster monsterCode = "M02">
 			<monsterName>Tsukumogami Chair</monsterName>
@@ -25,8 +27,9 @@
 			<monsterAttack>40</monsterAttack>
 			<monsterDescription>You encountered a large chair!</monsterDescription>
 			<monsterAttackPhrase>"Have a SEAT!"</monsterAttackPhrase>
-			<monsterMaxEncounterValue></monsterMaxEncounterValue>
-			<monsterMinEncounterValue></monsterMinEncounterValue>
+			<monsterMaxEncounterValue>11</monsterMaxEncounterValue>
+			<monsterMinEncounterValue>18</monsterMinEncounterValue>
+			<monsterHeldItem>KI06</monsterHeldItem>
 		</monster>
 		<monster monsterCode = "M03">
 			<monsterName>Charging Station</monsterName>
@@ -34,8 +37,9 @@
 			<monsterAttack>19</monsterAttack>
 			<monsterDescription>You encountered a dreaded tendriled charging station with disdain for human life!</monsterDescription>
 			<monsterAttackPhrase>"IMMA CHARGIN' YOUR BATTERY!"</monsterAttackPhrase>
-			<monsterMaxEncounterValue></monsterMaxEncounterValue>
-			<monsterMinEncounterValue></monsterMinEncounterValue>
+			<monsterMaxEncounterValue>27</monsterMaxEncounterValue>
+			<monsterMinEncounterValue>32</monsterMinEncounterValue>
+			<monsterHeldItem>CI02</monsterHeldItem>
 		</monster>
 		<monster monsterCode = "M04">
 			<monsterName>Fluorescent Raiju</monsterName>
@@ -43,8 +47,9 @@
 			<monsterAttack>23</monsterAttack>
 			<monsterDescription>You encountered a fluorescent thunder beast!</monsterDescription>
 			<monsterAttackPhrase>"Your future is not as bright as I!"</monsterAttackPhrase>
-			<monsterMaxEncounterValue></monsterMaxEncounterValue>
-			<monsterMinEncounterValue></monsterMinEncounterValue>
+			<monsterMaxEncounterValue>19</monsterMaxEncounterValue>
+			<monsterMinEncounterValue>26</monsterMinEncounterValue>
+			<monsterHeldItem>KI06</monsterHeldItem>
 		</monster>
 		<monster monsterCode = "M05">
 			<monsterName>Angry Librarian</monsterName>
@@ -52,8 +57,9 @@
 			<monsterAttack>32</monsterAttack>
 			<monsterDescription>An angry librarian joined the fray!</monsterDescription>
 			<monsterAttackPhrase>"QUIET!!"</monsterAttackPhrase>
-			<monsterMaxEncounterValue></monsterMaxEncounterValue>
-			<monsterMinEncounterValue></monsterMinEncounterValue>
+			<monsterMaxEncounterValue>2</monsterMaxEncounterValue>
+			<monsterMinEncounterValue>5</monsterMinEncounterValue>
+			<monsterHeldItem>CI05</monsterHeldItem>
 		</monster>
 		<monster monsterCode = "M06">
 			<monsterName>Midterm Exam</monsterName>
@@ -61,8 +67,9 @@
 			<monsterAttack>30</monsterAttack>
 			<monsterDescription>You encountered the dreaded midterm exam!!</monsterDescription>
 			<monsterAttackPhrase>"Oh you thought you had an A in MY class?!"</monsterAttackPhrase>
-			<monsterMaxEncounterValue></monsterMaxEncounterValue>
-			<monsterMinEncounterValue></monsterMinEncounterValue>
+			<monsterMaxEncounterValue>33</monsterMaxEncounterValue>
+			<monsterMinEncounterValue>38</monsterMinEncounterValue>
+			<monsterHeldItem>null</monsterHeldItem>
 		</monster>
 		<monster monsterCode = "M07">
 			<monsterName>Final Exam</monsterName>
@@ -70,8 +77,9 @@
 			<monsterAttack>50</monsterAttack>
 			<monsterDescription>You encountered the FINAL EXAM!</monsterDescription>
 			<monsterAttackPhrase>"Your GPA is MINE!"</monsterAttackPhrase>
-			<monsterMaxEncounterValue></monsterMaxEncounterValue>
-			<monsterMinEncounterValue></monsterMinEncounterValue>
+			<monsterMaxEncounterValue>39</monsterMaxEncounterValue>
+			<monsterMinEncounterValue>42</monsterMinEncounterValue>
+			<monsterHeldItem>null</monsterHeldItem>
 		</monster>
 	</monsters>
 </xml>
